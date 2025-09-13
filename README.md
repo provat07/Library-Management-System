@@ -1,4 +1,4 @@
-# Library Management System
+# Library Management System 🧾
 
 ## Description
 This is a simple console-based Library Management System built using Java and MySQL.  
